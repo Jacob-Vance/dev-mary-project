@@ -1,0 +1,22 @@
+{
+  "name": "dev-mary-project",
+  "version": "4.0.2",
+  "description": "CIS-486-01 Fall 2024 dev-mary project",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.6"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "keyword
