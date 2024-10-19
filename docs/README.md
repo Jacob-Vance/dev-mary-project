@@ -7,11 +7,17 @@ The weppage also desplays a history of all pantients data that can be updated an
 Homework
 
 Oct 15, 2024 Guest Speaker Notes: 
+
 Knowledge Management System
+
 allow people view the skills and office hours of professors
+
 can add, delete, and update information of the professors
+
 git endpoint for loading the professors
+
 action process copies the code from the library
+
 domain link to window server using reverse-proxy in-house infrastructure using Dynamic DNS External/Online infrastructure using Cloud SVELT
 
 pick one concept/tech to learn more about. 
